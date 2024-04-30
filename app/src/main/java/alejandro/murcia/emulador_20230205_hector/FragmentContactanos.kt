@@ -9,7 +9,7 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 
-/class FragmentContactanos : Fragment() {
+class FragmentContactanos : Fragment() {
     
     private val mail: String = "20230205@ricaldone.edu.sv"
 
